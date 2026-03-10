@@ -5,4 +5,4 @@ Customer churn represents a major challenge for subscription-based businesses be
 
 ## Project Notebook
 📊 View the full analysis here:  
-[Open the Jupyter Notebook](notebook/main.ipynb)
+[Open the Jupyter Notebook](notebook/churn_analysis.ipynb)
