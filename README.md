@@ -29,3 +29,13 @@ The analysis follows a structured data analysis process:
 4. Exploratory Data Analysis (EDA)  
 5. Identification of churn drivers  
 6. Business recommendations based on insights
+
+## Business Recommendations
+
+Based on the analysis, several strategies may help reduce customer churn:
+
+- Encourage customers to transition to longer-term contracts.
+- Improve onboarding and early-stage customer engagement.
+- Reevaluate pricing or communicate value more effectively for higher-tier plans.
+- Investigate customer experience associated with fiber optic services.
+- Promote automated billing methods to improve retention.
