@@ -34,6 +34,16 @@ The analysis follows a structured data analysis process:
 5. Identification of churn drivers  
 6. Business recommendations based on insights
 
+## Key Insights
+
+The exploratory analysis revealed several important patterns associated with customer churn:
+
+- Customers on **month-to-month contracts exhibit significantly higher churn** compared to customers on long-term contracts.
+- **Churn is concentrated among customers with shorter tenure**, indicating that the early stage of the customer lifecycle carries higher churn risk.
+- Customers with **higher monthly charges show slightly higher churn tendencies**.
+- **Fiber optic internet customers exhibit higher churn** compared to DSL customers.
+- Customers paying via **electronic check display the highest churn levels**, while automated payment methods are associated with lower churn.
+
 ## Business Recommendations
 
 Based on the analysis, several strategies may help reduce customer churn:
