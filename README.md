@@ -56,4 +56,4 @@ Based on the analysis, several strategies may help reduce customer churn:
 
 ## ✍️ Author
 
-**Mir Maahir Ali**
+[**Mir Maahir Ali**](https://github.com/mirmaahirali)
