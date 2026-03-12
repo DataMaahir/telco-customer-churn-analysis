@@ -11,7 +11,7 @@ Customer churn represents a major challenge for subscription-based businesses be
 
 The dataset contains customer-level information for a telecommunications company. Each record represents an individual customer and includes demographic attributes, service subscriptions, billing details, and churn status. This dataset has been taken from Kaggle, and can be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
-## Key Variables
+### Key Variables
 
 | Variable        | Description                                             |
 |-----------------|---------------------------------------------------------|
@@ -43,6 +43,12 @@ The exploratory analysis revealed several important patterns associated with cus
 - Customers with **higher monthly charges show slightly higher churn tendencies**.
 - **Fiber optic internet customers exhibit higher churn** compared to DSL customers.
 - Customers paying via **electronic check display the highest churn levels**, while automated payment methods are associated with lower churn.
+
+## Example Visualization
+
+Below is an example visualization from the exploratory analysis.
+
+![Customer Churn Distribution](images/churn_distribution.png)
 
 ## Business Recommendations
 
