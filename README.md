@@ -63,3 +63,10 @@ Based on the analysis, several strategies may help reduce customer churn:
 ## ✍️ Author
 
 [**Mir Maahir Ali**](https://github.com/mirmaahirali)
+
+## 💬 Feedback
+
+Feedback and suggestions are welcome.  
+If you have ideas for improving the analysis, visualizations, or repository structure, feel free to share them in the discussion below.
+
+👉 [Leave feedback on this project](https://github.com/mirmaahirali/telco-customer-churn-analysis/discussions/1)
