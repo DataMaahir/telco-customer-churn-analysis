@@ -48,7 +48,7 @@ The exploratory analysis revealed several important patterns associated with cus
 
 Below is an example visualization from the exploratory analysis.
 
-![Customer Churn Distribution](images/churn_distribution.png)
+![Customer Churn Distribution](images/churn_by_contract.png)
 
 ## Business Recommendations
 
